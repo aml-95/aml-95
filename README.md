@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 _Nombre:_ Ángeles
+
 _Apodos:_ Anxy, Anchis
+
 _Edad:_ 30 años en unos días
 
 El proyecto al que más cariño le tengo es un pestillo que abre al acercar una patita de gato, utilizando arduino y una tarjeta RFID.
