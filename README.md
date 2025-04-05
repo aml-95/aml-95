@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-_Nombre:_ Ángeles
+***Nombre:*** Ángeles
 
 _Apodos:_ Anxy, Anchis
 
-_Edad:_ 30 años en unos días
+***Edad:*** 30 años en unos días
 
-El proyecto al que más cariño le tengo es un pestillo que abre al acercar una patita de gato, utilizando arduino y una tarjeta RFID.
+> El proyecto al que más cariño le tengo es un pestillo que abre al acercar una patita de gato, utilizando arduino y una tarjeta RFID.
 
-Me gusta utilizar la programación, la automatización y la robótica en proyectos divertidos. Aunque me fascine la industria, es demasiado gris.
+> Me gusta utilizar la programación, la automatización y la robótica en proyectos divertidos. Aunque me fascine la industria, es demasiado gris.
+
+___(＾• ω •＾)___
